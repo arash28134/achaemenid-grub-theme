@@ -2,7 +2,9 @@
 
 Supported languages: English, Farsi (Persian), French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Turkish, Ukrainian, Chinese (simplified)
 
-- Open terminal.
+<b>First and main method of installation</b>
+
+- Open terminal
 
 - Clone this repository
 
@@ -14,6 +16,12 @@ Supported languages: English, Farsi (Persian), French, German, Italian, Norwegia
 
   ```
   cd achaemenid_grub_theme
+  ```
+
+- Make the install script executable
+
+  ```
+  chmod +x install.sh
   ```
 
 - Install the theme
