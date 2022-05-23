@@ -1,6 +1,6 @@
 # Achaemenid Grub Theme
 
-Supported languages: English, Farsi, French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Turkish, Ukrainian, Chinese (simplified)
+Supported languages: English, Farsi (Persian), French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Turkish, Ukrainian, Chinese (simplified)
 
 - Open terminal.
 
