@@ -1,3 +1,5 @@
+![2022-05-24_20-47_2](https://user-images.githubusercontent.com/74412308/170085996-0de60314-cdc4-48c7-99b8-4613fe3fa3bf.png)
+
 # Supported Languages
 
 This theme supports English, Farsi (Persian), French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Turkish, Ukrainian, Chinese (simplified)
