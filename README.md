@@ -54,13 +54,7 @@ This theme supports English, Farsi (Persian), French, German, Italian, Norwegian
   cd achaemenid-grub-theme
   ```
 
-- Make the install script executable
-
-  ```
-  chmod +x install.sh
-  ```
-
-- Install the theme
+- Run installation script
 
   ```
   sudo ./install.sh
