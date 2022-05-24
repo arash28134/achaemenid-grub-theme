@@ -1,7 +1,41 @@
-# Achaemenid Grub Theme
+# Supported Languages
 
-Supported languages: English, Farsi (Persian), French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Turkish, Ukrainian, Chinese (simplified)
+This theme supports English, Farsi (Persian), French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Turkish, Ukrainian, Chinese (simplified)
 
+# Changing the language
+
+- Change directory to where theme's .txt file is
+
+  ```
+  cd achaemenid-grub-theme/achaemenid
+  ```
+
+- Edit theme.txt
+  ```
+  nano theme.txt
+  ```
+
+- Find line 44 and comment out that line so it becomes like this:
+  ```
+  # text = "Booting in %d seconds"
+  ```
+
+- Find your preferred language and uncomment it (Farsi language in this case) so it becomes like this:
+  ```
+  text = "بوت کردن در %d ثانیه"
+  ```
+
+- Do the same for line 79. comment out the default text, and uncomment your preferred language
+
+- Save the .txt file using CTRL+O and then Enter, and exit using CTRL+X and Enter
+
+- Switch to parent directory and run the install script again
+  ```
+  cd ..
+  sudo ./install.sh
+  ```
+
+# Installation
 <b>First and main method of installation</b>
 
 - Open terminal
@@ -15,7 +49,7 @@ Supported languages: English, Farsi (Persian), French, German, Italian, Norwegia
 - Change directory to the Achaemenid Theme
 
   ```
-  cd achaemenid_grub_theme
+  cd achaemenid-grub-theme
   ```
 
 - Make the install script executable
