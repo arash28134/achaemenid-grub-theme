@@ -15,7 +15,7 @@ Supported languages: English, Farsi (Persian), French, German, Italian, Norwegia
 - Change directory to the Achaemenid Theme
 
   ```
-  cd achaemenid_grub_theme
+  cd achaemenid-grub-theme
   ```
 
 - Make the install script executable
