@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Grub2 Theme
 
 ROOT_UID=0
