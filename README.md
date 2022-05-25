@@ -73,7 +73,7 @@ This theme supports English, Farsi (Persian), French, German, Italian, Norwegian
   ```
 
 - Go into the cloned repository
-- Right click on acahemenid directory and choose "Compress" and then select .zip and hit Create
+- Right click on achaemenid directory and choose "Compress" and then select .zip and hit Create
 
 - Open Grub Customizer
 - Go to Appearance settings tab
