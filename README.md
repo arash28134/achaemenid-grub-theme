@@ -1,3 +1,5 @@
+![2022-05-25_15-04](https://user-images.githubusercontent.com/74412308/170269537-ccbb528d-7a27-4eeb-ad43-720ec82ab817.png)
+
 # Supported Languages
 
 This theme supports English, Farsi (Persian), French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Turkish, Ukrainian, Chinese (simplified)
@@ -52,13 +54,7 @@ This theme supports English, Farsi (Persian), French, German, Italian, Norwegian
   cd achaemenid-grub-theme
   ```
 
-- Make the install script executable
-
-  ```
-  chmod +x install.sh
-  ```
-
-- Install the theme
+- Run installation script
 
   ```
   sudo ./install.sh
@@ -76,11 +72,13 @@ This theme supports English, Farsi (Persian), French, German, Italian, Norwegian
   sudo apt-get install grub-customizer
   ```
 
+- Go into the cloned repository
+- Right click on achaemenid directory and choose "Compress" and then select .zip and hit Create
+
 - Open Grub Customizer
--  Go to Appearance settings tab
--  Select Custom resolution and type in your resolution. E.g: 1920x1080
--  Press Add theme button, go to your directory, where you have cloned repository. In my case /home/adison/distro-grub-theme
--  Select your theme located in /themes directory
--  Save changes
+- Go to Appearance settings tab
+- Select Custom resolution and type in your resolution. E.g: 1920x1080
+- Press Add theme button and then select the .zip file that you just made
+- Save changes
 
 - Reboot your PC

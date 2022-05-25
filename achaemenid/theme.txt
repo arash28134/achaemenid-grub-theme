@@ -2,7 +2,7 @@
 title-text: ""
 desktop-image: "background.png"
 desktop-color: "#000000"
-terminal-font: "Tomb_Raider Regular 28"
+terminal-font: "Terminus Regular 14"
 terminal-box: "terminal_box_*.png"
 terminal-left: "0"
 terminal-top: "0"
@@ -18,7 +18,7 @@ terminal-border: "0"
   top = 32%
   width = 40%
   height = 60%
-  item_font = "Tomb_Raider Regular 28"
+  item_font = "Ubuntu Regular 20"
   item_color = "#dcdb05"
   selected_item_color = "#abaa05"
   icon_width = 32
@@ -63,7 +63,7 @@ terminal-border: "0"
   # zh_CN
   # text = "在 %d 内启动"
   color = "#dcdb05"
-  font = "Tomb_Raider Regular 36"
+  font = "Ubuntu Regular 17"
   
 }
 
@@ -98,5 +98,5 @@ terminal-border: "0"
   # zh_CN
   # text = "使用 ↑ 和 ↓ 键移动选择条，Enter 键确认"
   color = "#dcdb05"
-  font = "Tomb_Raider Regular 36"
+  font = "Ubuntu Regular 17"
 }
