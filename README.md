@@ -72,11 +72,13 @@ This theme supports English, Farsi (Persian), French, German, Italian, Norwegian
   sudo apt-get install grub-customizer
   ```
 
+- Go to your directory where you have cloned repository. In my case /home/myuser/
+- Right click on cloned repository and choose "Compress" and then select .zip and hit Create
+
 - Open Grub Customizer
--  Go to Appearance settings tab
--  Select Custom resolution and type in your resolution. E.g: 1920x1080
--  Press Add theme button, go to your directory, where you have cloned repository. In my case /home/adison/distro-grub-theme
--  Select your theme located in /themes directory
--  Save changes
+- Go to Appearance settings tab
+- Select Custom resolution and type in your resolution. E.g: 1920x1080
+- Press Add theme button and then select the .zip file that you just made
+- Save changes
 
 - Reboot your PC
