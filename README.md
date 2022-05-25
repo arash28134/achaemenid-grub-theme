@@ -1,4 +1,4 @@
-![2022-05-24_20-47_2](https://user-images.githubusercontent.com/74412308/170085996-0de60314-cdc4-48c7-99b8-4613fe3fa3bf.png)
+![2022-05-25_15-04](https://user-images.githubusercontent.com/74412308/170269537-ccbb528d-7a27-4eeb-ad43-720ec82ab817.png)
 
 # Supported Languages
 
