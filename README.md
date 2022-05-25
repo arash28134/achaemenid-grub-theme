@@ -72,8 +72,8 @@ This theme supports English, Farsi (Persian), French, German, Italian, Norwegian
   sudo apt-get install grub-customizer
   ```
 
-- Go to your directory where you have cloned repository. In my case /home/myuser/
-- Right click on cloned repository and choose "Compress" and then select .zip and hit Create
+- Go into the cloned repository
+- Right click on acahemenid directory and choose "Compress" and then select .zip and hit Create
 
 - Open Grub Customizer
 - Go to Appearance settings tab
